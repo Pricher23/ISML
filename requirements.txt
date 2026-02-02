@@ -1,0 +1,4 @@
+# Pin MESA to 2.x for compatibility with ModularServer visualization
+mesa>=2.1.0,<3.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
